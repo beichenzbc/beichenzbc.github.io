@@ -21,6 +21,7 @@ Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi 
 📖 Education
 ======
 - *2021.9 - 2025.6 (Date of graduation):* Undergraduate, Guozhi Class, major in Artificial Intelligence, Shanghai Jiao Tong University
+  - GPA(ranking): 4.05/4.3(7/97)   
 
 💻 Internships
 ======
