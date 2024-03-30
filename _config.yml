@@ -21,12 +21,12 @@ repository               : "beichenzbc/beichenzbc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_square.png"
+  avatar           : "profile_square.jpg"
   name             : "Beichen Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Learning to be a good researcher"
   location         : "Shanghai, China"
-  employer         : 
+  employer         : Shanghai Jiao Tong University
   uri              : # URL
   email            : "zhangbeichen@sjtu.edu.cn" 
 
