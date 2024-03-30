@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/guozhibanjianjie.html) (held by Prof. Xiaoou Tang and Prof. Cewu Lu), Shanghai Jiao Tong University, majoring in Artificial Intelligence. Now, I work as a research intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by Jiaqi Wang. My research interests include Multimodal Learning and Multimodal Large Language Models(MLLM).
+Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/guozhibanjianjie.html) (held by [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof. Cewu Lu](https://www.mvig.org/), Shanghai Jiao Tong University, majoring in Artificial Intelligence. Now, I work as a research intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Jiaqi Wang](https://myownskyw7.github.io/). My research interests include Multimodal Learning and Multimodal Large Language Models(MLLM).
 
 🔥 News
 ======
