@@ -23,6 +23,7 @@ Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi 
 📖 Education
 ======
 - *2021.9 - 2025.6 (Date of graduation):* Undergraduate, Guozhi Class, major in Artificial Intelligence, Shanghai Jiao Tong University
+- CET6: 600 (first time)
 
 💻 Internships
 ======
@@ -42,7 +43,7 @@ Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi 
 **Beichen Zhang**, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Jiaqi Wang\
 **Arxiv** &nbsp; [**paper**](https://arxiv.org/abs/2403.15378) &nbsp; [**code**](https://github.com/beichenzbc/Long-CLIP) &nbsp; [![](https://img.shields.io/github/stars/beichenzbc/Long-CLIP)](https://github.com/beichenzbc/Long-CLIP)
 
-- Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach\
+- Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach \
 **Beichen Zhang**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan \
 **CVPR 2024** &nbsp; [**paper**](https://arxiv.org/abs/2403.11380) &nbsp; [**code**](https://github.com/beichenzbc/Supernet-shifting) &nbsp; [![](https://img.shields.io/github/stars/beichenzbc/Supernet-shifting)](https://github.com/beichenzbc/Supernet-shifting)
 
