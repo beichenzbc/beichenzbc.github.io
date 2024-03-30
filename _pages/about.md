@@ -8,22 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/guozhibanjianjie.html) (held by Prof.Xiaoou Tang and Prof.Cewu Lu), Shanghai Jiao Tong University, majoring in Artificial Intelligence. Now, I work as a research intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by Jiaqi Wang. My research interests include Multimodal Learning and Multimodal Large Language Models(MLLM). Be free to contact me over email.
-
-**Email:** zhangbeichen@sjtu.edu.cn &nbsp; [**Google Scholar**](https://scholar.google.com/citations?user=qlxc34gAAAAJ&hl=zh-CN)  &nbsp; [**Github**](https://github.com/beichenzbc)
+Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/guozhibanjianjie.html) (held by Prof. Xiaoou Tang and Prof. Cewu Lu), Shanghai Jiao Tong University, majoring in Artificial Intelligence. Now, I work as a research intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by Jiaqi Wang. My research interests include Multimodal Learning and Multimodal Large Language Models(MLLM).
 
 🔥 News
 ======
 - *2024.2:*  One paper was submitted to **ECCV2024**
 - *2024.2:*  One paper was accepted by **CVPR2024**
-- *2023.9:*  Joined [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by Jiaqi, Wang
-- *2022.7:*  Joined [Rethinklab](https://thinklab.sjtu.edu.cn/), supervised by Junchi, Yan
+- *2023.9:*  Joined [Shanghai AI Laboratory](https://www.shlab.org.cn/)
+- *2022.7:*  Joined [Rethinklab](https://thinklab.sjtu.edu.cn/)
 - *2021.12:* Enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
 
 📖 Education
 ======
 - *2021.9 - 2025.6 (Date of graduation):* Undergraduate, Guozhi Class, major in Artificial Intelligence, Shanghai Jiao Tong University
-- CET6: 600 (first time)
 
 💻 Internships
 ======
@@ -41,9 +38,19 @@ Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi 
 ======
 - Long-CLIP: Unlocking the Long-Text Capability of CLIP \
 **Beichen Zhang**, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Jiaqi Wang\
-**Arxiv** &nbsp; [**paper**](https://arxiv.org/abs/2403.15378) &nbsp; [**code**](https://github.com/beichenzbc/Long-CLIP) &nbsp; [![](https://img.shields.io/github/stars/beichenzbc/Long-CLIP)](https://github.com/beichenzbc/Long-CLIP)
+**Arxiv** &nbsp; [**paper**](https://arxiv.org/abs/2403.15378) &nbsp; [**code**](https://github.com/beichenzbc/Long-CLIP) [![](https://img.shields.io/github/stars/beichenzbc/Long-CLIP)](https://github.com/beichenzbc/Long-CLIP)
 
 - Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach \
 **Beichen Zhang**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan \
-**CVPR 2024** &nbsp; [**paper**](https://arxiv.org/abs/2403.11380) &nbsp; [**code**](https://github.com/beichenzbc/Supernet-shifting) &nbsp; [![](https://img.shields.io/github/stars/beichenzbc/Supernet-shifting)](https://github.com/beichenzbc/Supernet-shifting)
+**CVPR 2024** &nbsp; [**paper**](https://arxiv.org/abs/2403.11380) &nbsp; [**code**](https://github.com/beichenzbc/Supernet-shifting) [![](https://img.shields.io/github/stars/beichenzbc/Supernet-shifting)](https://github.com/beichenzbc/Supernet-shifting)
+
+🎖 Honors & Awards 
+======
+- Scholarships
+  - 2022.12 Guozhi Scholarship
+  - 2022.12 Second Price of Academic Exellent Scholarship of Shanghai Jiao Tong University
+  - 2022.12 Longfor Scholarship
+  - 2023.12 Third Price of Academic Exellent Scholarship of Shanghai Jiao Tong University
+- Certificate
+  - CET6: 600 (first time)
 
