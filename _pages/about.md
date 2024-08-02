@@ -12,8 +12,8 @@ Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi 
 
 🔥 News
 ======
-- *2024.2:*  One paper(first author) was submitted to **ECCV2024**
-- *2024.2:*  One paper(first author) was accepted by **CVPR2024**
+- *2024.2:*  One paper(first author) was accepted to **ECCV 2024**
+- *2024.2:*  One paper(first author) was accepted by **CVPR 2024**
 - *2023.9:*  Joined [Shanghai AI Laboratory](https://www.shlab.org.cn/)
 - *2022.7:*  Joined [Rethinklab](https://thinklab.sjtu.edu.cn/)
 - *2021.12:* Enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
@@ -39,7 +39,7 @@ Hi, this is Beichen Zhang（张北辰）, an undergraduate student from [Guozhi 
 ======
 - Long-CLIP: Unlocking the Long-Text Capability of CLIP \
 **Beichen Zhang**, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Jiaqi Wang\
-**Arxiv 2024** &nbsp; [**paper**](https://arxiv.org/abs/2403.15378) &nbsp; [**code**](https://github.com/beichenzbc/Long-CLIP) [![](https://img.shields.io/github/stars/beichenzbc/Long-CLIP)](https://github.com/beichenzbc/Long-CLIP)
+**ECCV 2024** &nbsp; [**paper**](https://arxiv.org/abs/2403.15378) &nbsp; [**code**](https://github.com/beichenzbc/Long-CLIP) [![](https://img.shields.io/github/stars/beichenzbc/Long-CLIP)](https://github.com/beichenzbc/Long-CLIP)
 
 - Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach \
 **Beichen Zhang**, Xiaoxing Wang, Xiaohan Qin, Junchi Yan \
